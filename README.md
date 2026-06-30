@@ -140,7 +140,6 @@ The model with the highest accuracy is automatically selected and saved.
 ---
 
 
-
 ## ⚙️ Installation
 
 
@@ -233,4 +232,5 @@ Machine Learning & Data Science Enthusiast
 GitHub: https://github.com/sanketdixit18
 
 ---
+
 
