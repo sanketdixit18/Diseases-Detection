@@ -139,34 +139,7 @@ The model with the highest accuracy is automatically selected and saved.
 
 ---
 
-## 📁 Project Structure
 
-```text
-Disease_Prediction_System/
-│
-├── datasets/
-│   ├── diabetes.csv
-│   ├── heart.csv
-│   └── breast_cancer.csv
-│
-├── models/
-│   ├── diabetes_model.pkl
-│   ├── heart_model.pkl
-│   └── breast_model.pkl
-│
-├── scalers/
-│   ├── diabetes_scaler.pkl
-│   ├── heart_scaler.pkl
-│   └── breast_scaler.pkl
-│
-├── disease_prediction_system.py
-├── prediction_menu.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
 
 ## ⚙️ Installation
 
@@ -174,9 +147,6 @@ Disease_Prediction_System/
 
 ### Navigate to Project Folder
 
-```bash
-cd CodeAlpha_Disease_Prediction_System
-```
 
 ### Create Virtual Environment
 
@@ -264,6 +234,3 @@ GitHub: https://github.com/sanketdixit18
 
 ---
 
-## 📜 License
-
-This project is developed for educational and internship purposes.
